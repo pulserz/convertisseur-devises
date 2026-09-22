@@ -12,7 +12,7 @@ Petite application de bureau en Python pour convertir des montants entre différ
 
 ```bash
 pip install -r requirements.txt
-python main.py
+python app.py
 ```
 
 ## Technologies
